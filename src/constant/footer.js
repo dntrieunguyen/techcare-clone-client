@@ -79,27 +79,27 @@ export const wid_social = {
       {
          item: 'fb',
          link: 'https://www.facebook.com/TechCare133/',
-         icon: '../assets/icon/ic-menu-facebook-f.png',
+         icon: '../../assets/icon/ic-menu-facebook-f.png',
       },
       {
          item: 'ytb',
          link: 'https://www.facebook.com/TechCare133/',
-         icon: '../assets/icon/icon-menu-youtube.png',
+         icon: '../../assets/icon/icon-menu-youtube.png',
       },
       {
          item: 'tt',
          link: 'https://www.facebook.com/TechCare133/',
-         icon: '../assets/icon/ic-tiktok.png',
+         icon: '../../assets/icon/ic-tiktok.png',
       },
       {
          item: 'ld',
          link: 'https://www.facebook.com/TechCare133/',
-         icon: '../assets/icon/ic-linkedin.png',
+         icon: '../../assets/icon/ic-linkedin.png',
       },
       {
          item: 'p',
          link: 'https://www.facebook.com/TechCare133/',
-         icon: '../assets/icon/ic-pinterest.png',
+         icon: '../../assets/icon/ic-pinterest.png',
       },
    ],
 };
